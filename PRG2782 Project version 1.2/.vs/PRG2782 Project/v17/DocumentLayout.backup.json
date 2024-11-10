@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|c:\\users\\nenez\\downloads\\prg2782 project (4)\\prg2782 project (2)\\prg2782 project\\prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\prg2782 project\\business layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\business layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\prg2782 project\\data layer\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\data layer\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\prg2782 project\\presentation layer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\presentation layer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "ToolTip": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "RelativeToolTip": "PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:03:13.811Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Business Layer\\Program.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Business Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Business Layer\\Program.cs",
+              "RelativeToolTip": "PRG2782 Project\\Business Layer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:29:04.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "ToolTip": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:13:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Presentation Layer\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.Designer.cs",
+              "RelativeToolTip": "PRG2782 Project\\Presentation Layer\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:22:51.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Data layer\\FileHandler.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Data layer\\FileHandler.cs",
+              "ToolTip": "C:\\Users\\nenez\\Downloads\\PRG2782 Project (4)\\PRG2782 Project (2)\\PRG2782 Project\\PRG2782 Project\\Data layer\\FileHandler.cs",
+              "RelativeToolTip": "PRG2782 Project\\Data layer\\FileHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:15:03.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

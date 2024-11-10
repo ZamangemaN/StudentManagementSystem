@@ -1,0 +1,5 @@
+1,Zama,22,BIT
+2,Justin,23,DIT
+3,Colby,24,DIT
+4,Mark,20,BCOMP
+5,Nontobeko,21,BIT

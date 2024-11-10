@@ -1,0 +1,17 @@
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.AssemblyReference.cache
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782_Project.Form1.resources
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782_Project.Properties.Resources.resources
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.GenerateResource.cache
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\bin\Debug\PRG2782 Project.exe.config
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\bin\Debug\PRG2782 Project.exe
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\bin\Debug\PRG2782 Project.pdb
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.exe
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.pdb
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.AssemblyReference.cache
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782_Project.Form1.resources
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782_Project.Properties.Resources.resources
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.GenerateResource.cache
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.CoreCompileInputs.cache
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.exe
+C:\Users\nenez\Downloads\PRG2782 Project (2)\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.pdb
