@@ -1,0 +1,10 @@
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.AssemblyReference.cache
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782_Project.Form1.resources
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782_Project.Properties.Resources.resources
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.GenerateResource.cache
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.csproj.CoreCompileInputs.cache
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\bin\Debug\PRG2782 Project.exe.config
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\bin\Debug\PRG2782 Project.exe
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\bin\Debug\PRG2782 Project.pdb
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.exe
+X:\Visual Studio Projects\PRG2782 Project\PRG2782 Project\obj\Debug\PRG2782 Project.pdb

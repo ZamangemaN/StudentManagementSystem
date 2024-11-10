@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Visual Studio Projects\\PRG2782 Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|x:\\visual studio projects\\prg2782 project\\prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|X:\\Visual Studio Projects\\PRG2782 Project\\prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|X:\\Visual Studio Projects\\PRG2782 Project\\prg2782 project\\data layer\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D2AAFC-F35C-4714-BC40-1DB2D67D4E6E}|PRG2782 Project\\PRG2782 Project.csproj|solutionrelative:prg2782 project\\data layer\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "X:\\Visual Studio Projects\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "ToolTip": "X:\\Visual Studio Projects\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "RelativeToolTip": "PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:03:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "X:\\Visual Studio Projects\\PRG2782 Project\\PRG2782 Project\\Data layer\\FileHandler.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Data layer\\FileHandler.cs",
+              "ToolTip": "X:\\Visual Studio Projects\\PRG2782 Project\\PRG2782 Project\\Data layer\\FileHandler.cs",
+              "RelativeToolTip": "PRG2782 Project\\Data layer\\FileHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:15:03.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "X:\\Visual Studio Projects\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "PRG2782 Project\\Presentation Layer\\Form1.cs",
+              "ToolTip": "X:\\Visual Studio Projects\\PRG2782 Project\\PRG2782 Project\\Presentation Layer\\Form1.cs [Design]",
+              "RelativeToolTip": "PRG2782 Project\\Presentation Layer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:13:27.666Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
